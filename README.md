@@ -13,8 +13,11 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+<<<<<<< HEAD
 
 ```
 > npm install
 > npm start
 ```
+=======
+>>>>>>> 6f0eb3a07766ecc77ebb2af026faf1b9d0dd415d
